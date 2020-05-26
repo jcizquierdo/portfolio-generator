@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Creates Portfolios!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcizquierdo/portfolio-generator.git"
+  },
+  "author": "JC Izquierdo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcizquierdo/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jcizquierdo/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
